@@ -8,7 +8,7 @@ const Main = () => {
       <AboutMe />
       <Portfolio />
       <Skills />
-      <ContactForm />
+      {/* <ContactForm /> */}
     </div>
   );
 };
